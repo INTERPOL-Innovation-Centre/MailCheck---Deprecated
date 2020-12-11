@@ -37,7 +37,7 @@ echo $email.' is '.($results[$email] ? 'valid' : 'invalid')."\n";
 if ($results[$email]) {
   //mail($email, 'Confirm Email', 'Please reply to this email to confirm', 'From:'.$sender."\r\n"); // send email
 } else {
-  echo 'The email addresse you entered is not valid';
+  echo 'The email address you entered is not valid';
 }
 
 
