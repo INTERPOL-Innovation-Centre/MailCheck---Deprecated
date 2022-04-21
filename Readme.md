@@ -8,3 +8,6 @@ In other words, if you want to know if electron@alset.com currently accepts inco
 The only trace left will be a telnet connection on alset.com mail server saying that your server inititated a transaction to send a mail from "no_reply[@]interpol.int" but dropped the connection.
 
 You might therefore want to modify the source code in index.php to change "no_reply[@]interpol.int" to whatever you like.
+
+# End-of-life - April 2022
+We no longer maintain this php tool. For alternatives, consider [github.com/reacherhq](https://github.com/reacherhq/check-if-email-exists).
