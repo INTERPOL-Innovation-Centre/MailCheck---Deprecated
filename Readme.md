@@ -1,4 +1,8 @@
-# MailCheck
+# End-of-life - April 2022
+We no longer maintain this php tool. For alternatives, consider [github.com/reacherhq](https://github.com/reacherhq/check-if-email-exists).
+
+
+## MailCheck
 
 This is a simple php script to test the status of a mailbox from a server under your control.
 Just copy the two .php files to a subfolder of your webserver and browse to that folder.
@@ -9,5 +13,6 @@ The only trace left will be a telnet connection on alset.com mail server saying 
 
 You might therefore want to modify the source code in index.php to change "no_reply[@]interpol.int" to whatever you like.
 
-# End-of-life - April 2022
-We no longer maintain this php tool. For alternatives, consider [github.com/reacherhq](https://github.com/reacherhq/check-if-email-exists).
+
+## Disclaimer
+*Prior to working on this repository and its contents, please make sure your agree to our [disclaimer](https://github.com/INTERPOL-Innovation-Centre/DISCLAIMER)*.  
