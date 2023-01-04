@@ -1,5 +1,8 @@
 # End-of-life - April 2022
-We no longer maintain this php tool. For alternatives, consider [github.com/reacherhq](https://github.com/reacherhq/check-if-email-exists).
+We no longer maintain this php tool.  
+For alternatives, consider:
+- [github.com/reacherhq](https://github.com/reacherhq/check-if-email-exists),
+- [sneakersinc-emailverify](https://github.com/catalyst256/sneakersinc-emailverify).
 
 
 ## MailCheck
